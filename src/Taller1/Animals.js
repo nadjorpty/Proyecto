@@ -16,7 +16,7 @@ const Animals = () => {
         habitat: "Desert",
         diet: "Fruit, seeds, eggs, termites, and lizards",
         geo_range: "Northern Africa and western Asia",
-        image_link: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Fennec_Fox.jpg",
+        image_link: "http://placeimg.com/640/480/people",
         id: 70,
 
 };  
